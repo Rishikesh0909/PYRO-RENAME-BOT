@@ -71,7 +71,4 @@ Example:- /set_caption 📕 File Name: {filename}
 
 » 𝗢𝗨𝗥 𝗕𝗢𝗧𝗦 : <a href=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT>𝗥𝗞 𝐁𝐎𝐓𝗭</a>
 » 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 : <a href=https://tools.apgy.in/upi/Rk_botz/8757081330@paytm/20>𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝚄𝚂 𝚃𝙾 𝙺𝙴𝙴𝙿 𝚂𝙴𝚁𝚅𝙸𝙲𝙴 𝙵𝚁𝙴𝙴</a>
-
-
-
 """
