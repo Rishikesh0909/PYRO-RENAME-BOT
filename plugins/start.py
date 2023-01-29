@@ -41,8 +41,8 @@ async def start(client, message):
     button=InlineKeyboardMarkup([[
         InlineKeyboardButton("𝙳𝙴𝚅𝚂", callback_data='dev')
         ],[
-        InlineKeyboardButton('𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/PYRO_BOTZ'),
-        InlineKeyboardButton('𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/PYRO_BOTZ_CHAT')
+        InlineKeyboardButton('𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/Rk_botz'),
+        InlineKeyboardButton('𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ᴍᴇ', url='https://tools.apgy.in/upi/Rk_botz/8757081330@paytm/20')
         ],[
         InlineKeyboardButton('𝙰𝙱𝙾𝚄𝚃', callback_data='about'),
         InlineKeyboardButton('𝙷𝙴𝙻𝙿', callback_data='help')
