@@ -37,7 +37,7 @@ class mr(object):
 ╭───────────⍟
 ├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
 ├👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂 : <a href=https://t.me/Rk_botz>𝗥𝗞 𝗕𝗢𝗧𝗭</a> 
-├👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=https://github.com/lntechnical2>𝙻𝙽 𝚃𝙴𝙲𝙷.𝚐𝚒𝚝</a>
+├👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=https://t.me/Rk_botz>𝗥𝗞 𝗕𝗢𝗧𝗭</a>
 ├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://github.com/pyrogram>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
 ├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://www.python.org>𝙿𝚈𝚃𝙷𝙾𝙽 3</a>
 ├💾 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://cloud.mongodb.com>𝙼𝙾𝙽𝙶𝙾𝙳𝙱</a>
@@ -45,7 +45,7 @@ class mr(object):
 ╰───────────────⍟
                                 """
     HELP_TXT = """
-🌌 <b><u>HOW TO SET THUMBNILE</u></b>
+🌌 <b><u>HOW TO SET 𝚃𝙷𝚄𝙼𝙱𝙽𝙰𝙸𝙻</u></b>
   
 •> /start a bot and send any picture to automatically set thumbnile.
 •> /delthumb use this command and delete your old thumbnile.
